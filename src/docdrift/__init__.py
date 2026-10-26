@@ -1,0 +1,7 @@
+"""DocDrift — see exactly what changed between two versions of a document."""
+
+from __future__ import annotations
+
+__all__ = ["__version__"]
+
+__version__ = "0.1.0"
